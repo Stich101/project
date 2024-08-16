@@ -1,0 +1,56 @@
+.engkottasi{
+    background-color: #2A5D5A;
+    padding-bottom: 1024px;
+    padding-right: 1440px;
+    padding-top: 22px;
+}
+.text{
+    color: #ffff;
+    font-size: 64px;
+    
+}
+.kottasi{
+    padding-bottom: 14px;
+    padding-top: 40;
+    padding-left: 25px;
+    background-color: #311313;  
+    margin-left: 736px;
+    width: 560px;
+    margin-bottom: 55px;
+    margin-top: 12px;
+}
+.kottasini1{
+    margin-left: 0px;
+    width: 650px;
+    background-color: #1FE8B7;
+    border: 40px solid black  ; 
+    padding: 10px;
+    padding: 45px 52px 54px 40px ;
+    border-bottom: 12px solid black;
+}
+.kottasini2{
+    margin-left: 0px;
+    width: 650px;
+    background-color: #1FE8B7;
+    border: 40px solid black  ;
+    padding: 10px;
+    padding: 45px 52px 54px 40px ;
+    border-top: 12px solid black;
+    
+}
+.text1{
+    font-size: 24px;
+}
+.text2{
+    font-size: 24px;
+}
+.kottasini0{
+    border: 7px solid red;
+    padding-right: 820px;
+    padding-left: 0px;
+    margin: 0 600px;
+}
+
+
+
+
